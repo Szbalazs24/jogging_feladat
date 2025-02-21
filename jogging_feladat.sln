@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "jogging_feladat", "jogging_feladat\jogging_feladat.csproj", "{063BA2B7-7940-4E93-A3A9-86CB985A46CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{063BA2B7-7940-4E93-A3A9-86CB985A46CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{063BA2B7-7940-4E93-A3A9-86CB985A46CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{063BA2B7-7940-4E93-A3A9-86CB985A46CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{063BA2B7-7940-4E93-A3A9-86CB985A46CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7701889C-EF5C-4C8B-A899-0933636A16E7}
+	EndGlobalSection
+EndGlobal

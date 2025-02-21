@@ -1,0 +1,10 @@
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\bin\Debug\jogging_feladat.exe.config
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\bin\Debug\jogging_feladat.exe
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\bin\Debug\jogging_feladat.pdb
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.csproj.AssemblyReference.cache
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.Form1.resources
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.Properties.Resources.resources
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.csproj.GenerateResource.cache
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.csproj.CoreCompileInputs.cache
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.exe
+C:\Users\2021c_szekely_b\source\repos\jogging_feladat\jogging_feladat\obj\Debug\jogging_feladat.pdb
