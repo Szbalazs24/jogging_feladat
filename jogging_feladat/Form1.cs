@@ -76,6 +76,21 @@ namespace jogging_feladat
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
+                string[] felbont = openFileDialog1.FileName.Split('\\');
+                o_ki.Text = felbont[felbont.Length-1];
+                listBox1.Items.Clear();
+                orszag.Clear();
+                StreamReader sr = new StreamReader(openFileDialog1.FileName);
+                sr.ReadLine();
+                while (!sr.EndOfStream)
+                {
+                    string[] sor = sr.ReadLine().Split(';');
+                    orszag.Add(new orszagok(sor[0], sor[1], Convert.ToInt32(sor[2]), Convert.ToInt32(sor[3]), Convert.ToDouble(sor[4])));
+                }
+                for (int i = 0; i < orszag.Count; i++)
+                {
+                    listBox1.Items.Add(orszag[i].Orszag);
+                }
 
             }
 
