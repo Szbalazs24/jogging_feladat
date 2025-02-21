@@ -61,20 +61,20 @@
             // o_ki
             // 
             this.o_ki.AutoSize = true;
-            this.o_ki.Location = new System.Drawing.Point(366, 24);
+            this.o_ki.Location = new System.Drawing.Point(330, 18);
             this.o_ki.Name = "o_ki";
-            this.o_ki.Size = new System.Drawing.Size(40, 13);
+            this.o_ki.Size = new System.Drawing.Size(54, 13);
             this.o_ki.TabIndex = 2;
-            this.o_ki.Text = "Ország";
+            this.o_ki.Text = "Kontinens";
             // 
             // kiiras
             // 
             this.kiiras.AutoSize = true;
             this.kiiras.Location = new System.Drawing.Point(256, 170);
             this.kiiras.Name = "kiiras";
-            this.kiiras.Size = new System.Drawing.Size(90, 13);
+            this.kiiras.Size = new System.Drawing.Size(159, 13);
             this.kiiras.TabIndex = 3;
-            this.kiiras.Text = "Választott ország!";
+            this.kiiras.Text = "Jelenleg nincs választva ország!";
             // 
             // tallozas
             // 

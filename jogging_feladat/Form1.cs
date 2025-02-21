@@ -76,8 +76,12 @@ namespace jogging_feladat
         {
             if (openFileDialog1.ShowDialog() == DialogResult.OK)
             {
+                
                 string[] felbont = openFileDialog1.FileName.Split('\\');
-                o_ki.Text = felbont[felbont.Length-1];
+                string[] ff = felbont[felbont.Length - 1].Split('_');
+                string[] fff = ff[1].Split('.');
+                comboBox1.Text = $"{fff[0].Substring(0, 1).ToUpper()}{fff[0].Substring(1, fff[0].Length-1)}";
+                o_ki.Text =$"Beolvasott fájl: {felbont[felbont.Length - 1]}";
                 listBox1.Items.Clear();
                 orszag.Clear();
                 StreamReader sr = new StreamReader(openFileDialog1.FileName);
